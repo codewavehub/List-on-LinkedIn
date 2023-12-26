@@ -1,30 +1,30 @@
-# 📃A guide on how to list your CodeWave Hub experience on LinkedIn
+# 📃A guide on how to list your CodeWave Hub Volunteer Experience on LinkedIn
 
 - An individual's involvement with the CWH-Learnathon Prgram should be added under the section **"Volunteer Experience"**.
 
 ## Steps
 
 1. Under your profile photo on LinkedIn click on the button labelled "Add profile section".
-2. Navigate to the section "Add Position".
-<img width="335" alt="image" src="https://github.com/LIEThyd/List-on-LinkedIn/assets/100799939/357b0d6a-c77f-4867-b73d-ecb8c682c218">
+<img width="371" alt="Screenshot 2023-12-26 135600" src="https://github.com/LIEThyd/List-on-LinkedIn/assets/100799939/8aece8d6-2ffa-48c7-87c8-0b6fdcd92529">
+
+
+2. Navigate to the section "Add Volunteer Experience".
+![Screenshot 2023-12-26 135600](https://github.com/LIEThyd/List-on-LinkedIn/assets/100799939/8fbb06ee-eb45-4905-947d-e3ded76ba868)
+
 
 
 3. Fill in your details with the content below
      
-     - Title: **_Role Which you got selected_**
-     - Employement Type: **Part Time**
-     - Company name: **CodeWave Hub**
-     - Location: **Hyderabad, Telangana, India**
-     - Location type: **Hybrid**
-     - Start Date: **your joining effective month & year**
-     - Industry: **Education**
-     - Description: ***"CodeWave Hub is an open-source chapter that nurtures student's interest in technology.
-       It operates as an interest club, a platform where students can participate and contribute according to their passions."***
+     - Organization: **_CodeWave Hub_**
+     - Role: **_Learnathon Cohort-1_**
+     - Cause: **_Education_**
+     - Start Date: **_December_**
+     - Description: ***"Learnathon is an program initiated by CodeWave Hub. CodeWave Hub is an open-source chapter that nurtures student's interest in technology."***
 5. Add other nessary details and **save**.
 
 # Here is an example of the outcome:
 
-<img width="524" alt="image" src="https://github.com/LIEThyd/List-on-LinkedIn/assets/100799939/8279bd4b-2f5e-4f0b-bc1c-1014afe17e26">
+<img width="495" alt="image" src="https://github.com/LIEThyd/List-on-LinkedIn/assets/100799939/f2ec2026-fdcc-4530-8420-e1610dbc72be">
 
 
 # ⚠ Note
