@@ -1,6 +1,6 @@
 # 📃A guide on how to list your CodeWave Hub experience on LinkedIn
 
-- An individual's involvement with the GitHub Campus Experts program should be added under the section **"Experience"**.
+- An individual's involvement with the CWH-Learnathon Prgram should be added under the section **"Volunteer Experience"**.
 
 ## Steps
 
