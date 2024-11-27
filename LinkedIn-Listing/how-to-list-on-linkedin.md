@@ -16,7 +16,7 @@
 3. Fill in your details with the content below
      
      - Organization: **_CodeWave Hub_**
-     - Role: **_Learnathon Cohort-1_**
+     - Role: **_Learnathon Cohort-2_**
      - Cause: **_Education_**
      - Start Date: **_December_**
      - Description: ***"Learnathon is an program initiated by CodeWave Hub. CodeWave Hub is an open-source chapter that nurtures student's interest in technology."***
